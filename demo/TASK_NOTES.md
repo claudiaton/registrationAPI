@@ -11,6 +11,8 @@ Write an API microservice using spring boot to simulate user registration:
 - Need to have JUnit Tests
 - Code must be shared via bitbucket or github
 
+Timebox: 3h
+
 ## Assumptions
 1. The project/package name is temporary and irrelevant for the purpose of this exercise.
 2. The validation to be provided for password is related to its lenght. Authentication (and possible connection to a database) will not be provided in this exercise.
